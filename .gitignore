@@ -6,6 +6,5 @@ obj/Debug/*
 Logs/*
 *.csproj
 Temp/*
-Packages/*
 .vsconfig
 UserSettings/*
