@@ -1,7 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using Mirror;
 using UnityEditor;
 
 public abstract class Variable<T> : ScriptableObject
